@@ -1,0 +1,9 @@
+items.find({
+  "repo": "local-goldimages-legacy-generic-aws-us-east-1",
+  "path": {
+    "$match": "http:/*"
+  },
+  "name": {
+    "$match": "*filelists.xml.gz"
+  }
+}).include("repo", "path", "name", "size", "actual_sha1", "sha256", "created", "modified", "updated", "created_by", "modified_by", "stat.downloaded", "stat.downloads")

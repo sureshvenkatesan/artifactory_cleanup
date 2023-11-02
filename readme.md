@@ -75,7 +75,7 @@ done
 
 #### Cleanup Docker tag using **AQL** from Python script
 
-You can also use the python script [clean_docker.py](./cleanup_unused_docker_image_tag/clean_docker.py)
+You can also use the python script [clean_docker.py](cleanup_unused_docker_image_tag/clean_docker/clean_docker.py)
 that was improvised from KB [How to clean up old Docker images](https://jfrog.com/knowledge-base/how-to-clean-up-old-docker-images/)
 
 ```textmate

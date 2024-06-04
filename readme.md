@@ -1,4 +1,5 @@
 Please review the KB [Artifactory Cleanup Best Practices](https://jfrog.com/knowledge-base/artifactory-cleanup-best-practices/)
+and [Relative Time Operators in AQL](https://jfrog.com/help/r/jfrog-artifactory-documentation/relative-time-operators-in-aql)
 
 For Artifactory Cleanup , you can search using  JFrog CLI for artifacts you want to delete in Artifactory  using:
 - a [FileSpec](https://www.jfrog.com/confluence/display/JFROG/Using+File+Specs) for [Searching Files](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-SearchingFiles)  
